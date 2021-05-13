@@ -2,6 +2,12 @@
 
 ![](images/trajectory.jpg)
 
+Figure 1: Generated Toolpath
+
+![](images/PP.jpg)
+
+Figure 2: Pole Placement controller simulation
+
 ## Description
 * The objective of this project is to design a 2 axis machine controller. 
 The goal of the project is to generate trajectories for different toolpaths and 
