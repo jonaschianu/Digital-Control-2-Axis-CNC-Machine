@@ -4,7 +4,7 @@
 
 Figure 1: Generated Toolpath
 
-![](images/PP.jpg)
+![](images/PP.JPG)
 
 Figure 2: Pole Placement controller simulation
 
